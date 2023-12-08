@@ -1,0 +1,19 @@
+{"_id":{"$oid":"643c693784837ad3c8292184"},"Title":"Ms","Surname":"Klavina","Mobile":"00012345678","Email":"viktorija.klavina.2022@mumail.ie","First_name(s)":"Viktorija"}
+
+{"_id":{"$oid":"643c697a84837ad3c8292185"},"Title":"Mr","Surname":"Bobby","Mobile":"123","Email":"billyboy@mail.com","First_name(s)":"Billy"}
+
+{"_id":{"$oid":"643c693784837ad3c8292184"},"address1":"123 Green Drive","address2":"Little Lane","town":"Drogheda","county/city":"Louth","eircode":"ABC123"}
+
+{"_id":{"$oid":"643c732684837ad3c8292189"},"manufacturer":"TechBro","model":"ChargerA","price":{"$numberDouble":"10.0"}}
+
+{"_id":{"$oid":"643c738d84837ad3c829218c"},"manufacturer":"TechBro","model":"ChargerB","price":{"$numberDouble":"8.0"}}
+
+{"_id":{"$oid":"643c73a684837ad3c829218d"},"manufacturer":"Samsung","model":"Samsung Galaxy 8","price":{"$numberDouble":"150.0"}}
+
+{"_id":{"$oid":"643c73dc84837ad3c829218e"},"manufacturer":"Apple","model":"Iphone 10","price":{"$numberDouble":"300.0"}}
+
+{"_id":{"$oid":"643c741c84837ad3c829218f"},"manufacturer":"Apple","model":"Airpods","price":{"$numberDouble":"125.0"}}
+
+{"_id":{"$oid":"643c743d84837ad3c8292190"},"purchase":["Iphone 10","Airpods"],"customer":"Viktorija"}
+
+{"_id":{"$oid":"643c74b584837ad3c8292191"},"purchase":["Samsung Galaxy 8"],"customer":"Bobby"}
